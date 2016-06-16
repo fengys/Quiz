@@ -42,7 +42,6 @@
   <ItemGroup>
     <Compile Include="Models\OrderReport.cs" />
     <Compile Include="Models\OrderSummary.cs" />
-    <Compile Include="Quiz.ext.cs" />
     <Compile Include="Models\Data.cs" />
     <Compile Include="Models\OrderItem.cs" />
     <Compile Include="Models\Order.cs" />
